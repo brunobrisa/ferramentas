@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: Super Metroid (JU) [!].smc Header: No
+Super Metroid             TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:OK  
+VIDEO:NTSC    BANK:Lo     CRC32:D63ED5F8
+                                        

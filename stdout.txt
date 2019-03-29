@@ -1,0 +1,9 @@
+Reading config file C:\Users\Brisa\Desktop\Snes9x/snes9x.conf.
+Saving	config file	C:\Users\Brisa\Desktop\Snes9x/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+No ROM file header found.
+Map_LoROMMap
+"MEGAMAN X" [checksum ok] LoROM, 16Mbits, ROM, NTSC, SRAM:0Kbits, ID:____, CRC32:DED53C64
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	C:\Users\Brisa\Desktop\Snes9x/snes9x.conf
+Saving	config file	C:\Users\Brisa\Desktop\Snes9x/snes9x.conf
